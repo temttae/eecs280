@@ -7,3 +7,6 @@
 [submodule "p3-euchre"]
 	path = p3-euchre
 	url = git@github.com:temttae/p3-euchre.git
+[submodule "p4-web"]
+	path = p4-web
+	url = git@github.com:temttae/p4-web.git
