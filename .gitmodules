@@ -1,0 +1,3 @@
+[submodule "p1-stats"]
+	path = p1-stats
+	url = git@github.com:temttae/eecs280-p1-stats.git
