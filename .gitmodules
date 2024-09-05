@@ -1,3 +1,6 @@
 [submodule "p1-stats"]
 	path = p1-stats
 	url = git@github.com:temttae/eecs280-p1-stats.git
+[submodule "p2-cv"]
+	path = p2-cv
+	url = git@github.com:temttae/eecs280-p2-cv.git
