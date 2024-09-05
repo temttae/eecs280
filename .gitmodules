@@ -4,3 +4,6 @@
 [submodule "p2-cv"]
 	path = p2-cv
 	url = git@github.com:temttae/eecs280-p2-cv.git
+[submodule "p3-euchre"]
+	path = p3-euchre
+	url = git@github.com:temttae/eecs280-p3-euchre.git
